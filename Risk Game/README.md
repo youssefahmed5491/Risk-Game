@@ -2,7 +2,7 @@ Risk Game
 
 This is a game of conquer and strategy in which the player need to claim all the available territories to win
 
-This game has to mapps Egypt and America
+This game has 2 maps Egypt and America
 
 Player 1 can be a human or an AI while player 2 can only be an AI
 
